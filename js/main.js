@@ -1,11 +1,15 @@
 'use srtict'
-// 定数 const
+
 // 変数 let ver
 
-let price = 150;
-console.log(price * 140);
-console.log(price * 160);
+let price = 500;
 
-price = 170;
-console.log(price * 140);
-console.log(price * 160);
+// price = price + 100
+price += 100;   //600
+
+price *= 2;     //1200
+
+price ++;       //1201
+price --;       //1200
+
+console.log(price)
