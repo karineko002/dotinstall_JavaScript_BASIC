@@ -1,11 +1,12 @@
 'use srtict'
 
-//コメント
+// console.log('hello');
+// console.log('hello');
 
-/*
-コメント
-コメント
-コメント
-*/
+// console.log('it's me!');
+// console.log("it's me!");
+// console.log('it\'s me!');
 
-console.log('HelloWorld from main.sj');
+console.log('he\n llo wor\t ld')
+
+console.log('hello' + 'world')
