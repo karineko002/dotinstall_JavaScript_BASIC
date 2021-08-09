@@ -1,1 +1,11 @@
-console.log('HelloWorld from main.sj')
+'use srtict'
+
+//コメント
+
+/*
+コメント
+コメント
+コメント
+*/
+
+console.log('HelloWorld from main.sj');
